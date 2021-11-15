@@ -1,9 +1,6 @@
-Hi 👋, I'm mtrontz-the-dev!
-
-
 Hi 👋, I'm Matthew Trontz, aka mtrontz-the-dev!
                                                    
-#### A passionate Full Stack Developer / Systems Engineer from New Jersey (USA) and Active Open Source Development Community Member.
+#### A passionate Full Stack Developer / Small Business Owner / Entrepreneur from New Jersey (USA) and Active Open Source Development Community Member.
 
 - 🔭 I’m currently working on a bunch of cool projects, (hosted on GitHub Pages of course! (Mostly)) that highlight all of my knowledge and experience gained from the personal research that I do.](https://github.com/mtrontz-the-dev)
 
